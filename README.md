@@ -1,6 +1,6 @@
 
 This project was created to restore the game's functionality on modern mobile devices (Android 10+, currently ARMv7 only).
-Russian language support has been implemented (via a workaround, as I didn't see much point in adding new logic to the game code).
+Russian language support has been implemented (via a workaround, as I didn't see much point in adding new logic to the game code). translation by https://4pda.to/forum/index.php?showtopic=589781&st=20#entry53720087
 
 All in-game purchases have been made free.
 A Java debugger has been added to handle potential game crashes.
